@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orealestr.github.io/sitemap.html.gz
+Sitemap: https://orealestr.github.io/app/sitemap.html.gz
+Sitemap: https://orealestr.github.io/assets/sitemap.html.gz
+Sitemap: https://orealestr.github.io/css/sitemap.html.gz
+Sitemap: https://orealestr.github.io/includes/sitemap.html.gz
+Sitemap: https://orealestr.github.io/item/sitemap.html.gz
+Sitemap: https://orealestr.github.io/src/sitemap.html.gz
